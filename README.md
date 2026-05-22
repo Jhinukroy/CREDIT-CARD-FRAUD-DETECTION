@@ -6,4 +6,5 @@ experiment with algorithms like Logistic Regression, Decision Trees,
 or Random Forests to classify transactions as fraudulent or
 legitimate.
 
-[https://www.kaggle.com/datasets/kartik2112/fraud-detection ](url)
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
